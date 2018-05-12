@@ -1,4 +1,4 @@
-# Steps to getting Firebase/Firestore working with iOS 11.3 and 10.3
+# Steps to getting Firebase/Firestore 5.0.0 working with iOS 11.3 and 10.3
 
 1. Download the Firebase static frameworks here:
 [https://firebase.google.com/docs/ios/setup#frameworks](https://firebase.google.com/docs/ios/setup#frameworks)
